@@ -6,7 +6,7 @@ training completion, SLA compliance, and learner performance
 across APAC & EMEA regions for 50 learners across 7 departments.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](LA_Dashboard.png)
 
 ## Key Insights
 - 📉 SLA Compliance at 48% — flagged as critical risk
